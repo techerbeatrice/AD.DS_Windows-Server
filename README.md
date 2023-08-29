@@ -32,7 +32,23 @@ DAns **Options du contrôleur de domaine**, renseigner le **mot de passe** de vo
 
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/21c732d0-6565-4d39-bfcf-aa337faa8281)
 
-Un message d’erreur en jaune vient alerter de la délégation du serveur DNS. Il n’y a rien à faire à ce stade, cliquer simplement sur Suivant pour continuer.    
+Dans options DNS, un message d’erreur en jaune vient alerter de la délégation du serveur DNS. Il n’y a rien à faire à ce stade, cliquer simplement sur Suivant pour continuer.    
 
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/73f195d9-f779-4751-bf02-a79a6eecc8ad)
+
+____
+
+Indiquer l’équivalent NetBIOS. Par exemple, pour « domaine.local » on pourra choisir le NetBIOS « DOMAINE » . Dans notre cas, pour "wilders.lan" on met "WILDERS" ---> Suivant ---> Dans Chemin d'accès, laisser par défaut ---> Suivant 
+
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/16d2494a-cbfc-42c7-8668-87bf412714aa)
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/9b4fcfcb-5f3c-4bbb-b8c4-a6abeb4f2f28)
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/d6833ef4-0986-489f-b452-53bb11b41999)
+
+Une dernière vérification est effectuée, des notifications sont affichées mais cliquer sur Installer pour démarrer le processus.
+
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/841fef86-5ebd-4eed-ab2a-415b9fdff4f5)
+
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/cdbbff38-8e2b-472e-9561-033c1739a1d9)
+
+Après l'installation, windows server redémarre.
 
