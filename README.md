@@ -13,7 +13,7 @@ Donner le rôle **AD DS** à windows Server, pour cela aller dans Gérer --> Ajo
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/ed997ce7-46da-42fb-b344-a86b0c14d632)
 
 
-Après avoir coché **AD DS**, faire 3 fois Suivant > Dans Confirmation, cliquer Installer
+Après avoir coché **Services AD DS**, faire 3 fois Suivant > Dans Confirmation, cliquer Installer
 
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/6f1e6a6a-87d5-4c54-855d-7b84f833ee64)
 
