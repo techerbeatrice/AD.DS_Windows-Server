@@ -51,4 +51,7 @@ Une dernière vérification est effectuée, des notifications sont affichées ma
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/cdbbff38-8e2b-472e-9561-033c1739a1d9)
 
 Après l'installation, windows server redémarre.
+On retombe sur le tableau de bord avec AD DS et les autres rôles
+
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/69677c06-acdc-4332-9551-ab00ffa21e9a)
 
