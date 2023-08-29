@@ -26,3 +26,13 @@ Arrivé dans Résultats, cliquer sur "**Promouvoir ce serveur en contrôleur de 
 La fenêtre **Assistant Configuration des services de domaines Active Directory** s'ouvre dans **Configuration de déploiement** ---> Sélectionner **Ajouter une nouvelle forêt** ---> Renseigner la partie **Nom de domaine racine**, dans notre cas **wilders.lan** 
 
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/74bb1564-542b-4255-85ae-9d4fa0b74bc2)
+
+
+DAns **Options du contrôleur de domaine**, renseigner le **mot de passe** de votre accès machine ---> Suivant
+
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/21c732d0-6565-4d39-bfcf-aa337faa8281)
+
+Un message d’erreur en jaune vient alerter de la délégation du serveur DNS. Il n’y a rien à faire à ce stade, cliquer simplement sur Suivant pour continuer.    
+
+![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/73f195d9-f779-4751-bf02-a79a6eecc8ad)
+
