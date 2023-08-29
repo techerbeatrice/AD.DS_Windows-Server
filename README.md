@@ -28,7 +28,7 @@ La fenêtre **Assistant Configuration des services de domaines Active Directory*
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/74bb1564-542b-4255-85ae-9d4fa0b74bc2)
 
 
-DAns **Options du contrôleur de domaine**, renseigner le **mot de passe** de votre accès machine ---> Suivant
+Dans **Options du contrôleur de domaine**, renseigner le **mot de passe** de votre accès machine ---> Suivant
 
 ![image](https://github.com/techerbeatrice/AD.DS_Windows-Server/assets/138071140/21c732d0-6565-4d39-bfcf-aa337faa8281)
 
