@@ -1,4 +1,14 @@
 # Active Directory sur windows server
+___
+
+Installe et configure Active Directory server en reprenant la machine virtuelle que tu as utilisé pour faire les quêtes sur le DNS et DHCP   
+•	Installer le rôle AD DS sur Windows Serveur 2012 R2    
+•	Créer un domaine wilders.lan    
+•	Explique la procédure que tu as utilisée dans une documentation qui permet de reproduire ton installation et que tu posteras comme solution à cette quête    
+•	La procédure permet effectivement de mettre en place un contrôleur de domaine    
+•	Les explications sont claires et adaptées à un administrateur·rice débutant·e   
+
+____
 
 **Les étapes :**   
 
